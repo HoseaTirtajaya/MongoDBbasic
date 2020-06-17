@@ -1,0 +1,16 @@
+{
+  "name": "mongodbtutorial",
+  "version": "1.0.0",
+  "description": "This is a mongodb tutorial",
+  "main": "app.js",
+  "scripts": {
+    "test": "mocha --timeout 10000"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mocha": "^8.0.1",
+    "mongoose": "^5.9.19"
+  }
+}
